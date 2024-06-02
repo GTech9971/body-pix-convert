@@ -1,0 +1,7 @@
+{
+  "name": "bodypix-convert",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
